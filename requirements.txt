@@ -22,7 +22,7 @@ diff-match-patch==20200713
 Django==2.2.4
 django-appconf==1.0.3
 django-autoslug==1.9.6
-django-celery-results==1.2.1
+django-celery-results==2.4.0
 django-ckeditor==5.9.0
 django-compressor==2.3
 django-crispy-forms==1.9.2
